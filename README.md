@@ -1,1 +1,32 @@
-# Tshese-SovTech-Assessment
+# Personal Portfolio Website in React
+​
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+​
+<img width="1266" alt="Screenshot from 2022-11-21 15-58-41" src="https://user-images.githubusercontent.com/76852653/203076048-4f750363-0898-45bc-811b-6dacb7c17730.png">
+​
+Built using:
+​
+- Front-end library: React
+- CSS framework: React-bootstrap
+- CSS animations library: Animate.css
+​
+In the /personal-portfolio, you can run:
+
+​
+### `npm start`
+​
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+​
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+​
+### `npm run build`
+​
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+​
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+​
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
